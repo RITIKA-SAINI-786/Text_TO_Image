@@ -1,0 +1,6 @@
+Flask==2.0.1
+torch==1.13.0+cu117
+torchvision==0.14.0+cu117
+diffusers==0.3.0
+transformers==4.21.1
+Pillow==9.0.1
